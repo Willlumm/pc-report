@@ -1,2 +1,3 @@
 input/*
 config.py
+__pycache__/*
