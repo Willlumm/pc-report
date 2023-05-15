@@ -1,3 +1,5 @@
+__pycache__/*
+historic/*
 input/*
 config.py
-__pycache__/*
+*.xlsx
